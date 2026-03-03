@@ -1,0 +1,10 @@
+[package]
+name = "penteract-engine"
+version = "0.1.0"
+edition = "2024"
+description = "Interactive 5D Penteract Projection Engine — TUI wireframe renderer"
+
+[dependencies]
+ratatui = "0.30.0"
+crossterm = "0.29.0"
+nalgebra = "0.33.0"
