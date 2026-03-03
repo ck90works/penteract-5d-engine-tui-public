@@ -13,6 +13,12 @@ Projecting a 5D object down to 4D, then to 3D, and finally rasterizing it onto a
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ck90works/penteract-5d-engine-tui-public/refs/heads/ck90works-patch-1/demo/demo.gif"/>
+</div>
+
+---
+
 ## 🚀 Setup Guide
 
 ### Dependencies
