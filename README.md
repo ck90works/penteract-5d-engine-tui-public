@@ -12,6 +12,8 @@ Projecting a 5D object down to 4D, then to 3D, and finally rasterizing it onto a
 - **TUI Interface:** A beautiful 60 FPS terminal UI using `ratatui` with depth-based color shading (near edges are bright, far edges are dim).
 
 ---
+![]()
+---
 
 ## 🚀 Setup Guide
 
